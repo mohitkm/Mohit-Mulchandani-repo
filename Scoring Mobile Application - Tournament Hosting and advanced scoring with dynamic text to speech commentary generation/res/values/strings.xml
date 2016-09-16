@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">ScoringApp</string>
+    <string name="title_activity_scorer_home">ScorerHomeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_advanced_scoring">Advanced Scoring</string>
+    <string name="dialog_string_save">SAVE</string>
+    <string name="dialog_string_cancel">CANCEL</string>
+    <string name="dialog_string_ok">OK</string>
+    <string name="score">%1$d/%2$d</string>
+    <string name="overs">%1$d.%2$d</string>
+    <string name="batScore">%1$d(%2$d)</string>
+    <string name="fixture_name">%1$s Vs %2$s</string>
+    <string-array name="shotType">
+        <item>Leave</item>
+        <item>Beaten</item>
+        <item>Defended</item>
+        <item>Hook</item>
+        <item>Leg Cut</item>
+        <item>Leg Glance</item>
+        <item>Off Drive</item>
+        <item>On Drive</item>
+        <item>Pull</item>
+        <item>Square Cut</item>
+        <item>Square Drive</item>
+        <item>Straight Drive</item>
+        <item>Cover Drive</item>
+    </string-array>
+    <string-array name="shotDirection">
+        <item>Wicket Keeper</item>
+        <item> </item>
+        <item>LEG SIDE</item>
+        <item> </item>
+        <item>Leg Slip</item>
+        <item>Short Fine Leg</item>
+        <item>Deep Fine Leg</item>
+        <item>Short Square Leg</item>
+        <item>Short Midwicket</item>
+        <item>Deep Midwicket</item>
+        <item>Mid On</item>
+        <item>Long On</item>
+        <item> </item>
+        <item>STRAIGHT HIT</item>
+        <item> </item>
+        <item>OFF SIDE</item>
+        <item> </item>
+        <item>Slips</item>
+        <item>Gully</item>
+        <item>Short Third Man</item>
+        <item>Third Man</item>
+        <item>Short Backward Point</item>
+        <item>Deep Backward Point</item>
+        <item>Point</item>
+        <item>Deep Point</item>
+        <item>Short Cover</item>
+        <item>Deep Cover</item>
+        <item>Mid Off</item>
+        <item>Long Off</item>
+    </string-array>
+    <string-array name="shotElevation">
+        <item>Grounded</item>
+        <item>Inside inner circle</item>
+        <item>Outside inner circle</item>
+        <item>Short</item>
+        <item>Long</item>
+    </string-array>
+    <string-array name="extras">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="deliveryType">
+        <item>Full Toss</item>
+        <item>Bouncer</item>
+        <item>Inswinger</item>
+        <item>Outswinger</item>
+        <item>Leg Cutter</item>
+        <item>Off Cutter</item>
+        <item>Reverse Swing</item>
+        <item>Yorker</item>
+        <item>Slower Ball</item>
+        <item>Off Spin</item>
+        <item>Leg Spin</item>
+        <item>Doosra</item>
+        <item>Googly</item>
+    </string-array>
+    <string-array name="deliveryLength">
+        <item>Very Short</item>
+        <item>Short</item>
+        <item>Good</item>
+        <item>Full</item>
+        <item>Yorker</item>
+        <item>Full Toss</item>
+    </string-array>
+    <string-array name="deliveryLine">
+        <item>Off</item>
+        <item>Middle</item>
+        <item>Leg</item>
+    </string-array>
+    <string-array name="extraType">
+        <item>Bye</item>
+        <item>Leg Bye</item>
+        <item>No Ball</item>
+        <item>Wide</item>
+    </string-array>
+    <string-array name="dismissalType">
+        <item>Bowled</item>
+        <item>Caught</item>
+        <item>Hit Wicket</item>
+        <item>LBW</item>
+        <item>Run Out</item>
+        <item>Stumped</item>
+    </string-array>
+    <string name="title_activity_fixture_home">FixtureHomeActivity</string>
+</resources>
+
+
+
