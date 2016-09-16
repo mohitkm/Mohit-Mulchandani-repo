@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="New Folder" android:id="@+id/menu_NewFolder" android:orderInCategory="1"></item>
+    <item android:title="Paste" android:id="@+id/menu_Paste" android:orderInCategory="2"></item>
+    <item android:title="Sort Ascending" android:id="@+id/menu_SortAscending" android:orderInCategory="3"></item>
+    <item android:title="Sort Descending" android:id="@+id/menu_SortDescending" android:orderInCategory="4"></item>
+
+</menu>
