@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoringClientApp</string>
+    <string name="title_activity_live_scores">LiveScoresActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="fixture_name">%1$s Vs %2$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
